@@ -1,0 +1,6 @@
+{
+  "name": "Aura Launcher",
+  "description": "A fluid Cupertino-inspired Android launcher featuring dynamic time-of-day wallpapers, customizable dock, interactive widgets, Control Center, App Library folders, and stylized Lock Screen notification stacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

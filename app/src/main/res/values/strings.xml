@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aura Launcher</string>
+    <string name="action_done">Done</string>
+    <string name="action_edit_home">Edit Home Screen</string>
+    <string name="action_add_widget">Add Widget</string>
+    <string name="action_customize">Customize</string>
+    <string name="search_apps_hint">Search apps, widgets, or actions</string>
+    <string name="app_library_title">App Library</string>
+    <string name="control_center_title">Control Center</string>
+    <string name="lock_screen_swipe_hint">Swipe up to unlock</string>
+    <string name="wallpaper_dynamic_auto">Auto (Time of Day)</string>
+    <string name="dock_settings_title">Customize Dock</string>
+    <string name="default_launcher_title">Set Aura as Your Home Screen?</string>
+    <string name="default_launcher_subtitle">Make Aura Launcher your default Android home screen for instant Control Center access, dynamic wallpapers, and Spotlight search.</string>
+    <string name="default_launcher_confirm">Set as Default Launcher</string>
+    <string name="default_launcher_not_now">Not Now</string>
+    <string name="default_launcher_dont_ask">Don\'t Ask Again</string>
+</resources>
